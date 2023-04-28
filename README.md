@@ -2,7 +2,7 @@
 Univerzitní projekt pro předmět ITS (Testování a dynamická analýza - Testing and dynamic analysis)
 
 # Testovací scénáře
-Návrh testovacích scénařů pro testování eshopu a přehled artefaktů, které byly testovacím scénářem pokryty.
+Návrh testovacích scénařů pro testování eshopu a přehled artefaktů, které byly testovacím scénářem pokryty.\
 **Hodnocení:** 19/20 bodů
 
 # Testovací sada
